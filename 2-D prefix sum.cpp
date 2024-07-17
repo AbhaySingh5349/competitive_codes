@@ -23,3 +23,5 @@ using namespace std;
 	cout<<(pre[x2][y2]-pre[x2][y1-1]-pre[x1-1][y2]+pre[x1-1][y1-1]);
 	return 0;
 }
+
+
